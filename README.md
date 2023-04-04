@@ -1,2 +1,4 @@
 # Int_breweries_analysis
 A comprehensive data analysis of the International Breweries dataset
+
+This project aims to conduct a comprehensive data analysis of the International Breweries dataset, with a specific focus on sales by country, brand sales by country, and sales by sales representatives per brand and country. By analyzing these factors, the project seeks to identify patterns, trends, and opportunities that can provide valuable insights for business decisions. The results of this analysis can be utilized to develop targeted marketing strategies, enhance product development, improve operational efficiency, and increase customer satisfaction. Ultimately, this project aims to provide practical recommendations that can enable the company to maximize profits and maintain its competitiveness in the market.
